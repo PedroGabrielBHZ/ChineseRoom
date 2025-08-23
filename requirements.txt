@@ -1,3 +1,4 @@
 pytest
 dotenv
 google-genai
+urwid

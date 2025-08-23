@@ -1,1 +1,1 @@
-# TaintGuesser package init
+# ChineseRoom package init
